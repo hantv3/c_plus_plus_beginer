@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+        "Khai"
+    ],
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "new": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp"
+    }
+}

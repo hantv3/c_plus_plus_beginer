@@ -1,0 +1,11 @@
+Lý thuyết 
+Tính đóng gói
+
+Tính đóng gói là kỹ thuật che giấu những thông tin bên trong đối tượng.
+Mục đích chính của tính đóng gói là giúp hạn chế lỗi khi phát triển chương trình.
+
+Các lợi ích tính đóng gói đem lại cho người sử dụng:
+    Hạn chế được các truy xuất không hợp lệ tới các thuộc tính trong đối tượng
+    Giúp cho trạng thái đối tượng luôn đúng.
+    Giúp ẩn đi các thông tin không cần thiết về đối tượng.
+    Cho phép thay đổi cấu trúc bên trong lớp mà không ảnh hưởng tới lớp khác.
